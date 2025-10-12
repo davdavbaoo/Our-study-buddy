@@ -1,0 +1,5 @@
+{
+  "name": "Timer for Hngoc",
+  "description": "A polished, dual-mode (Pomodoro and Custom) timer and task list application with a glassmorphism UI and a dynamic, time-of-day changing background.",
+  "requestFramePermissions": []
+}
