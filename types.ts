@@ -1,9 +1,2 @@
-
-export interface Task {
-  id: number;
-  text: string;
-  completed: boolean;
-}
-
-export type TimerMode = 'pomodoro' | 'custom';
-export type SessionType = 'focus' | 'break' | 'longBreak';
+// Type definitions from this file have been removed during the JavaScript build process.
+// This source file is no longer needed for the live application.
