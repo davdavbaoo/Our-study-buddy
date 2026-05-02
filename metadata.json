@@ -1,6 +1,5 @@
 {
-  "name": "Timer for Hngoc",
-  "description": "A polished, dual-mode (Pomodoro and Custom) timer and task list application with a focus on wellness, featuring a glassmorphism UI and a dynamic, time-of-day changing background.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "name": "Timer for Hngoc 20/10 version",
+  "description": "A polished, dual-mode (Pomodoro and Custom) timer and task list application with a glassmorphism UI and a dynamic, time-of-day changing background.",
+  "requestFramePermissions": []
 }
